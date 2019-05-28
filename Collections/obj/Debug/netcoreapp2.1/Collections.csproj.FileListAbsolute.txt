@@ -1,0 +1,11 @@
+C:\Users\punin\source\repos\Collections\Collections\bin\Debug\netcoreapp2.1\Collections.deps.json
+C:\Users\punin\source\repos\Collections\Collections\bin\Debug\netcoreapp2.1\Collections.runtimeconfig.json
+C:\Users\punin\source\repos\Collections\Collections\bin\Debug\netcoreapp2.1\Collections.runtimeconfig.dev.json
+C:\Users\punin\source\repos\Collections\Collections\bin\Debug\netcoreapp2.1\Collections.dll
+C:\Users\punin\source\repos\Collections\Collections\bin\Debug\netcoreapp2.1\Collections.pdb
+C:\Users\punin\source\repos\Collections\Collections\obj\Debug\netcoreapp2.1\Collections.csprojAssemblyReference.cache
+C:\Users\punin\source\repos\Collections\Collections\obj\Debug\netcoreapp2.1\Collections.csproj.CoreCompileInputs.cache
+C:\Users\punin\source\repos\Collections\Collections\obj\Debug\netcoreapp2.1\Collections.AssemblyInfoInputs.cache
+C:\Users\punin\source\repos\Collections\Collections\obj\Debug\netcoreapp2.1\Collections.AssemblyInfo.cs
+C:\Users\punin\source\repos\Collections\Collections\obj\Debug\netcoreapp2.1\Collections.dll
+C:\Users\punin\source\repos\Collections\Collections\obj\Debug\netcoreapp2.1\Collections.pdb
